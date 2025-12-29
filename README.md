@@ -46,33 +46,25 @@
 ---
 
 ## 🚀 Projects
-> Add your repo links after you paste (or send them to me and I’ll plug them in neatly).
-
 - 🚲 **Safer Ride — Risk-Aware Bike Routing** (AWS: S3, Glue/Athena, Lambda, API Gateway) — Sep 2025 – Present  
   - End-to-end AWS pipeline + PostGIS layers for hotspot queries/overlays  
   - FastAPI on Lambda returns a **0–100 route risk score** using spatial joins; React + Leaflet renders overlays; EventBridge schedules refresh; QuickSight tracks trends  
-  🔗 Repo: <ADD_LINK>
 
 - 🧩 **AI-Powered Code Debugger** (Python, Flask, GPT-4o, Docker, REST API) — Mar 2025  
   - Modular pipeline to debug/refactor/optimize Python code  
   - Dockerized REST service for scalable integration  
-  🔗 Repo: <ADD_LINK>
 
 - 🩺 **PCOS Analysis and Detection** (Python, Scikit-learn) — Jan 2025 – Mar 2025  
   - ML pipeline for PCOS detection from health indicators + predictive analytics workflow  
-  🔗 Repo: <ADD_LINK>
 
 - 🛫 **Data Integration Solution for Denver International Airport** (ServiceNow, Azure DevOps) — Nov 2024  
   - Automated ETL integrating ServiceNow + Azure DevOps + operational dashboard  
-  🔗 Repo: <ADD_LINK>
 
 - 🧘 **Yoga Posture Detection and Correction** (Python, TensorFlow.js) — Aug 2023 – May 2024  
   - Built an FNN with **96.5% accuracy** + real-time browser deployment via TensorFlow.js  
-  🔗 Repo: <ADD_LINK>
 
 - 📊 **Amazon Prime Data Analysis using Tableau** (Tableau, SQL) — May 2022  
   - Tableau dashboard connected to SQL sources; insights on top-rated content + trends  
-  🔗 Repo / Dashboard: <ADD_LINK>
 
 ---
 
