@@ -88,11 +88,3 @@
 - ✉️ Email: simranjadhavv022003@gmail.com
 
 ---
-
-## 📊 GitHub Stats (optional)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simrann020&show_icons=true&rank_icon=github" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simrann020&layout=compact" />
-</p>
