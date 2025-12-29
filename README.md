@@ -1,68 +1,106 @@
-## Welcome to my GitHub profile!
+<h1 align="center">Hi, I'm Simran Jadhav 👋</h1>
 
-I’m **Simran Jadhav**, an M.S. Data Science student at the **University of Colorado Boulder** (GPA: **3.8/4**).  
-I build data science and data engineering systems end-to-end — from ETL/ELT and data quality gates to model training, evaluation, and deployment.
+<p align="center">
+  🎓 M.S. Data Science @ University of Colorado Boulder (Aug 2024 – May 2026) • GPA: 3.8/4 <br/>
+  🌦️ Data Science & Engineering Intern @ Nexus Weather and Climate (May 2025 – Present)
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/Simrann020"><img src="https://img.shields.io/badge/GitHub-Simrann020-black?logo=github"></a>
+  <a href="https://www.linkedin.com/in/simran-jadhav20/"><img src="https://img.shields.io/badge/LinkedIn-Simran%20Jadhav-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:simranjadhavv022003@gmail.com"><img src="https://img.shields.io/badge/Email-simranjadhavv022003%40gmail.com-EA4335?logo=gmail&logoColor=white"></a>
+</p>
 
-## Education
-
-- **University of Colorado Boulder** — M.S. in Data Science (Aug 2024 – May 2026) | GPA: **3.8/4**
-- **Mumbai University, Rajiv Gandhi Institute of Technology** — B.E. in Computer Engineering (Jul 2020 – May 2024) | GPA: **3.7/4**
-
----
-
-## Experience
-
-### Nexus Weather & Climate — Data Science & Engineering Intern (May 2025 – Present) | Boulder, USA
-- Built production **ETL/ELT** for NWP, station, wave, and precip feeds; produced partitioned **Parquet** datasets and automated daily refresh/backfills via **Airflow on Docker**.
-- Implemented **data quality + inference gating** (schema, unit, range, shape checks, dedupe, backfills); replaced a legacy **SVM** with a tuned **Random Forest** and standardized evaluation (**MAE, MSE, CRPS**) with automated reports/plots.
-- Designed a **CNN–LSTM** forecasting module with probabilistic calibration and CRPS-style / quantile-weighted objectives; automated training/eval via **YAML configs**; exported single-file artifacts and a **REST** service; shipped runtime health/drift dashboards.
-- Set up **CI/CD** with GitHub Actions for nightly training/evaluation, artifact versioning, checksums, and failure alerts; improved p95 inference latency to **< 350 ms** via feature-pipeline streamlining and caching.
-
----
-
-## Projects
-
-- **Safer Ride — Risk-Aware Bike Routing (AWS: S3, Glue/Athena, Lambda, API Gateway)**  
-  End-to-end pipeline ingesting crash/311/bike-infra data into S3, transforming into partitioned tables, and loading PostGIS layers on RDS with spatial indexes.  
-  FastAPI on Lambda returns a **0–100 route risk score** using spatial joins; React + Leaflet renders overlays; EventBridge schedules refresh; QuickSight tracks trends.
-
-- **AI-Powered Code Debugger (Python, Flask, GPT-4o, Docker, REST API)**  
-  Flask app with a modular pipeline to debug/refactor/optimize Python code; packaged as a Dockerized REST service for reproducible integration.
-
-- **PCOS Analysis & Detection (Python, Scikit-learn)**  
-  ML pipeline for PCOS detection with preprocessing, predictive analytics, and automated validation for healthcare workflows.
-
-- **Data Integration Solution — Denver International Airport (ServiceNow, Azure DevOps)**  
-  Automated ETL integrating ServiceNow + Azure DevOps and built an interactive monitoring dashboard for operational visibility.
-
-- **Yoga Posture Detection & Correction (Python, TensorFlow.js)**  
-  Built an FNN achieving **96.5% accuracy**; deployed with TensorFlow.js for real-time, browser-based pose correction and feedback.
-
-- **Amazon Prime Data Analysis (Tableau, SQL)**  
-  Interactive Tableau dashboard over SQL data to analyze content performance, top-rated titles, and trending genres.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
-## Skills
-
-- **Programming & Databases:** Python, R, SQL, C++, Java | MySQL, PostgreSQL, MongoDB  
-- **ML & Big Data:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM | Spark, Hadoop, Dask, xarray  
-- **Cloud & MLOps:** AWS, Azure, GCP | Docker, Airflow, MLflow | Flask, FastAPI, REST APIs | GitHub Actions (CI/CD)  
-- **Data Engineering:** ETL/ELT, time-series feature engineering, schema/QA validation, Parquet, orchestration  
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+## ✨ About Me
+- 📊 I build end-to-end data + ML systems: **ETL/ELT → validation/gating → modeling → evaluation → deployment**
+- 🧪 I care about **clean pipelines, reproducible experiments, and strong metrics**
+- 🧠 Interested in **Machine Learning, Data Engineering, and Analytics**
 
 ---
 
-## Publication
-
-- Technological paper: **Yoga Posture Detection and Correction**
+## 🎓 Education
+- **University of Colorado Boulder** — M.S. in Data Science (Aug 2024 – May 2026) | **GPA: 3.8/4**
+- **Mumbai University, Rajiv Gandhi Institute of Technology** — B.E. in Computer Engineering (Jul 2020 – May 2024) | **GPA: 3.7/4**
 
 ---
 
-## Links
+## 💼 Experience
 
-- LinkedIn: https://www.linkedin.com/in/simran-jadhav20/
-- GitHub: https://github.com/Simrann020
-- Email: simranjadhavv022003@gmail.com
+### 🌦️ Nexus Weather and Climate — Data Science & Engineering Intern (May 2025 – Present) | Boulder, USA
+- 🧱 Engineered production **ETL/ELT** for NWP, station, wave, and precip feeds; built partitioned **Parquet** datasets and scheduled **Airflow on Docker** runs for daily refresh + backfills.
+- ✅ Implemented **data quality + inference gating** (schema, unit, range, shape checks) with dedupe/backfills; replaced a legacy **SVM** with a tuned **Random Forest**; standardized **MAE/MSE/CRPS** reporting with automated plots.
+- 🧠 Designed a **CNN–LSTM** forecasting module with probabilistic calibration + custom loss functions (CRPS-style / quantile-weighted); automated training/eval via **YAML**; exported single-file artifacts + a **REST** service; shipped runtime health/drift dashboards.
+- ⚙️ Established **CI/CD** with GitHub Actions for nightly training/evaluation, artifact versioning + checksums, and failure notifications; reduced p95 inference latency to **< 350 ms** via pipeline streamlining + caching.
+
+---
+
+## 🚀 Projects
+> Add your repo links after you paste (or send them to me and I’ll plug them in neatly).
+
+- 🚲 **Safer Ride — Risk-Aware Bike Routing** (AWS: S3, Glue/Athena, Lambda, API Gateway) — Sep 2025 – Present  
+  - End-to-end AWS pipeline + PostGIS layers for hotspot queries/overlays  
+  - FastAPI on Lambda returns a **0–100 route risk score** using spatial joins; React + Leaflet renders overlays; EventBridge schedules refresh; QuickSight tracks trends  
+  🔗 Repo: <ADD_LINK>
+
+- 🧩 **AI-Powered Code Debugger** (Python, Flask, GPT-4o, Docker, REST API) — Mar 2025  
+  - Modular pipeline to debug/refactor/optimize Python code  
+  - Dockerized REST service for scalable integration  
+  🔗 Repo: <ADD_LINK>
+
+- 🩺 **PCOS Analysis and Detection** (Python, Scikit-learn) — Jan 2025 – Mar 2025  
+  - ML pipeline for PCOS detection from health indicators + predictive analytics workflow  
+  🔗 Repo: <ADD_LINK>
+
+- 🛫 **Data Integration Solution for Denver International Airport** (ServiceNow, Azure DevOps) — Nov 2024  
+  - Automated ETL integrating ServiceNow + Azure DevOps + operational dashboard  
+  🔗 Repo: <ADD_LINK>
+
+- 🧘 **Yoga Posture Detection and Correction** (Python, TensorFlow.js) — Aug 2023 – May 2024  
+  - Built an FNN with **96.5% accuracy** + real-time browser deployment via TensorFlow.js  
+  🔗 Repo: <ADD_LINK>
+
+- 📊 **Amazon Prime Data Analysis using Tableau** (Tableau, SQL) — May 2022  
+  - Tableau dashboard connected to SQL sources; insights on top-rated content + trends  
+  🔗 Repo / Dashboard: <ADD_LINK>
+
+---
+
+## 🧰 Skills
+- 💻 **Programming & Databases:** Python, R, SQL, C++, Java, MySQL, PostgreSQL, MongoDB  
+- 🤖 **ML & Big Data:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, Spark, Hadoop, Dask, xarray  
+- ☁️ **Cloud & MLOps:** AWS, Azure, GCP; Docker, Airflow, MLflow; Flask, FastAPI, REST APIs; CI/CD (GitHub Actions)  
+- 🏗️ **Data Engineering:** ETL/ELT, time-series feature engineering, schema/QA validation, Parquet, orchestration  
+- 📈 **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+
+---
+
+## 📄 Publication
+- 📝 Published a technological paper on **Yoga Posture Detection and Correction**
+
+---
+
+## 📫 Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/simran-jadhav20/
+- 🧑‍💻 GitHub: https://github.com/Simrann020
+- ✉️ Email: simranjadhavv022003@gmail.com
+
+---
+
+## 📊 GitHub Stats (optional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Simrann020&show_icons=true&rank_icon=github" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simrann020&layout=compact" />
+</p>
