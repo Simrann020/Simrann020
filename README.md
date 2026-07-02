@@ -1,27 +1,27 @@
 <h1 align="center">Hi, I'm Simran Jadhav 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+that+ship;RAG+%2B+LLM+orchestration+%2B+MLOps;M.S.+Data+Science+%40+CU+Boulder;AI+Engineering+Intern+%40+TIFIN" alt="Typing SVG" />
+</p>
+
+<p align="center">
   🎓 M.S. Data Science @ University of Colorado Boulder (Aug 2024 – May 2026) • GPA: 3.8/4<br/>
   🤖 AI Engineering Intern @ TIFIN (Jun 2026 – Present)
 </p>
 
 <p align="center">
-  <a href="https://github.com/Simrann020"><img src="https://img.shields.io/badge/GitHub-Simrann020-black?logo=github"></a>
-  <a href="https://www.linkedin.com/in/simran-jadhav20/"><img src="https://img.shields.io/badge/LinkedIn-Simran%20Jadhav-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:simranjadhavv022003@gmail.com"><img src="https://img.shields.io/badge/Email-simranjadhavv022003%40gmail.com-EA4335?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/simran-jadhav20/"><img src="https://img.shields.io/badge/LinkedIn-Simran%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:simranjadhavv022003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Simrann020"><img src="https://img.shields.io/badge/GitHub-Simrann020-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Simrann020&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Simrann020?label=Followers&style=flat&color=2E9EF7" alt="followers" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,flask,react,nextjs,pytorch,tensorflow,aws,gcp,docker,kubernetes,postgres,mongodb,git&theme=dark" />
 </p>
 
 ---
@@ -76,6 +76,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Simrann020&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simrann020&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simrann020&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🧰 Skills
 
 - 🤖 **AI & LLMs:** OpenAI API, Claude, Gemini, RAG, FAISS, multi-agent orchestration (LangGraph), prompt engineering, structured outputs
@@ -96,3 +109,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/simran-jadhav20/
 - 🧑‍💻 GitHub: https://github.com/Simrann020
 - ✉️ Email: simranjadhavv022003@gmail.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=footer" width="100%"/>
+</p>
