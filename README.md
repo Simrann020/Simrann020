@@ -35,7 +35,7 @@
 ---
 
 ## 🎓 Education
-- **University of Colorado Boulder** — M.S. in Data Science (Aug 2024 – May 2026) | **GPA: 3.8/4**
+- **University of Colorado Boulder** — M.S. in Data Science (Aug 2024 – May 2026) | **GPA: 3.9/4**
 - **Mumbai University, Rajiv Gandhi Institute of Technology** — B.E. in Computer Engineering (Jul 2020 – May 2024) | **GPA: 3.7/4**
 
 ---
